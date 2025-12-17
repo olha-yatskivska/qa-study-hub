@@ -16,15 +16,12 @@ This summary focuses on the difference between building the product right and bu
 | **Testing Objectives** | Verifying whether specified requirements have been fulfilled | Validating whether the test object is complete and works as expected by the [Stakeholders](#-stakeholders-who-are-they-and-why-do-they-care) |
 | **Stakeholders** | Internal Stakeholders | External Stakeholders |
 
----
-
 ## ⚠️ Principle: Absence-of-Defects Fallacy
 > **Definition:** It is a misconception to expect that software verification will ensure the success of a system. 
-> Even with 0 bugs found, the system may still fail if it doesn't fulfill business goals.
 
 ---
 
-## 👥 Stakeholders : Who are they and why do they care?
+## 👥 Stakeholders: Who are they and why do they care?
 
 #### Internal Stakeholders (The Team)
 * **Developers:** Need to know if their code works and where it fails.
