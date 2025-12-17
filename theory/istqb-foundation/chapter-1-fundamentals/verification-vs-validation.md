@@ -16,8 +16,10 @@ This summary focuses on the difference between building the product right and bu
 | **Testing Objectives** | Verifying whether specified requirements have been fulfilled | Validating whether the test object is complete and works as expected by the [Stakeholders](#-stakeholders-who-are-they-and-why-do-they-care) |
 | **Stakeholders** | Internal Stakeholders | External Stakeholders |
 
+---
+
 ## ⚠️ Principle: Absence-of-Defects Fallacy
-> **Definition:** It is a misconception to expect that software verification will ensure the success of a system. 
+> **Definition:** It is a misconception to expect that software verification will ensure the success of a system. Thoroughly testing all the specified requirements and fixing all the defects found could still produce a system that doesn't fulfill the users' needs and expectations, that doesn't help in achieving the customer's business goals, and that is inferior compared to other competing system.  
 
 ---
 
