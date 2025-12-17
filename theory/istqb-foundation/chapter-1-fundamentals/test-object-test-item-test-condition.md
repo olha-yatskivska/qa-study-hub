@@ -2,6 +2,10 @@
 
 This summary covers the fundamental concepts of work products and the hierarchical relationship between the test basis, test objects, and test items according to ISTQB Foundation v4.0.
 
+> [!IMPORTANT]
+> **Test Object changed accoding to Test Leveles. Component Level - module, function;  Component integration level - intagration between modules, microservises; system level - part of the system, feature, whole system; system integraion level - integration whithin system, integration with 3d data; 
+
+
 ---
 
 | Concept | **Test Object** | **Test Item** |
