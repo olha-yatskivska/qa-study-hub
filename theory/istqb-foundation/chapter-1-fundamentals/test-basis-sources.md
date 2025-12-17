@@ -8,7 +8,7 @@
 
 * **Requirements:**
     * **BRD** (*Business Requirements Document*): High-level business goals.
-    * **URS** (*User Requirements Specification*): Needs and expectations of end-users. (User Stories for Agile)
+    * **URS** (*User Requirements Specification*): Needs and expectations of end-users. (User Stories and Acceptance Criteria for Agile)
     * **FRS/FS** (*Functional Requirements Specification*): Specific functions the system must perform. (Use Case)
     * **NFRs** (*Non-Functional Requirements*): Performance, security, usability, reliability, compatibility, etc.
 ---
