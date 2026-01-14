@@ -4,7 +4,7 @@
 Although these activities may appear to follow a logical sequence, they are often implemented iteratively or in parallel (especially in Agile). 
 
 
-| **Test Stages** | **Core Activity (Goal)** | **Testware**v(Work Products) | **Test roles** |
+| **Test Stages** | **Core Activity (Goal)** | **Testware** (Work Products) | **Test roles** |
 | :--- | :--- | :--- |:--- |
 | 📍 **Test planning**| Defining the test objectives and selecting an approach to achieve them | 📄 Test Plan, Test Schedule, Risk Register, Entry/Exit Criteria.  | 👤Test Management |
 | 📊 **Test monitoring and control**| Checking progress against the plan (Monitoring) and taking corrective actions (Control). In Agile: repeated every sprint| 📈 Test Progress Reports (Daily in Agile), documentation of Control Directives and Risk updates| 👤 Test Management |
