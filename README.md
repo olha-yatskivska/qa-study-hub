@@ -9,7 +9,7 @@ My structured knowledge base classified by QA knowledge areas. Click on a sectio
 
 | Resource | Type | Status | Key Focus |
 | :--- | :--- | :---: | :--- |
-| **ISTQB Certified Tester Test Analyst (v4.0) | Syllabus | ⏳ To Do | Advanced test design & analysis |
+| [**ISTQB Certified Tester Test Analyst (v4.0)](./theory/istqb-analyst-4-0/) | Syllabus | ⏳ To Do | Advanced test design & analysis |
 | [**ISTQB Certified Tester Test Analyst (v3.1.1)](./theory/istqb-analyst/) | Syllabus | 📖 Reading | Advanced test design & analysis |
 | [**ISTQB Foundation Level Syllabus (v4.0)**](./theory/istqb-foundation/) | Syllabus | ✅ Done | Core terminology & principles |
 | **A Study Guide to the ISTQB FL Syllabus v4.0** (Adam Roman) | Book | ✅ Done | Deep dive into 2023 standards |
