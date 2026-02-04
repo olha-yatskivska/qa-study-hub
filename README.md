@@ -42,7 +42,7 @@ My structured knowledge base classified by QA knowledge areas. Click on a sectio
 
 | Resource | Author | Status |
 | :--- | :--- | :---: |
-| **Software Requirements** | Karl Wiegers | ⏳ To Do |
+| [**Software Requirements**](https://github.com/olha-yatskivska/qa-study-hub/tree/main/books/Software_Requirements_Wiegers) | Karl Wiegers | 📖 Reading |
 | **Requirements Engineering Fundamentals** | Klaus Pohl | ⏳ To Do |
 
 </details>
