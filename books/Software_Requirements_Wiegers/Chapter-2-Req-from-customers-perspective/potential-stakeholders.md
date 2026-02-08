@@ -1,4 +1,4 @@
-# Who is the customer?
+# Potential stakeholders within the project team, within the developing organization, and outside the organization
 
 ---
 > A stakeholder is a person, group, or organization that is actively involved in a project, is affected by its process or outcome, or can influence its process or outcome. 
