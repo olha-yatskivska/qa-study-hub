@@ -1,4 +1,4 @@
-# Good practices for requirements engineering
+# Requirements engineering good practices
 
 ## Elicitation
 * Define vision and scope
