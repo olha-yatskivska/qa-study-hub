@@ -5,6 +5,12 @@
 > Stakeholders can be internal or external to the project team and to the developing organization.
 ---
 
+---
+>  User requirements should come from people who will press the keys, touch the screen, or  receive the outputs.
+> If there is a serious disconnect between the acquiring customers who are paying for the project and the end users, major problems are guaranteed.
+
+---
+
 ## Outside the Developing Organization
 * Direct user
 * Indirect user
