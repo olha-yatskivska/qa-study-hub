@@ -53,7 +53,7 @@
 * Educate stakeholders about requirements
 * Educate developers about application domain 
 * Define a requirements engineering process
-* Create a glossary
+* Create a glossary [Domain Glossaries](https://github.com/olha-yatskivska/qa-artifacts/tree/main/test-analysis/static-testing/glossaries)
 ---
 ## Project management
 * Select an appropriate life cycle
