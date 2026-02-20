@@ -34,5 +34,5 @@ The core principle of a Context Diagram is boundary definition. It treats the en
 * Identifying Dependencies: It shows which external systems you might need to "mock" or "stub" during testing if those systems are not yet available.
 * Data Integrity: By seeing what data enters and leaves the system, you can plan end-to-end scenarios to ensure data isn't corrupted as it crosses the system boundary.
 
-> To view a practical example and the diagram code, proceed to the [Standard Context Diagram (Mermaid)]() section.
+> To view a practical example and the diagram code, proceed to the [Standard Context Diagram (Mermaid)](https://github.com/olha-yatskivska/qa-artifacts/tree/main/requirements) section.
  
